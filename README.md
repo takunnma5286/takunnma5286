@@ -1,16 +1,12 @@
-### Hi there 👋
+### こんにちは、私です。
 
-<!--
-**takunnma5286/takunnma5286** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**こいつ誰??**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - どこにでもいる学生
+ - 英語 is not good at 書く
+**特徴**
+ - 適応性高い
+ - 記憶力ゴミ
+ - 英語力ゴミ
+ - 漢字ゴミ
+ - PC検定2級所持
